@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hkato4188
 - 👀 I’m interested in software engineering, devops, and any opportunities to learn and collaborate
 - 🌱 I’m currently exploring the world of devops
-- 💞️ I’m looking to collaborate on anything with a positive impact
+- 💞️ I’m looking to collaborate on anything...really enjoy learning
 - 📫 How to reach me: hirokikato1@gmail.com
 
 <!---
