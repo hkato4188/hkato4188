@@ -1,7 +1,7 @@
 - 👋 Hi, my name is Hiro. 
-- I currently carry the titles of teacher and fullstack developer but consider myself to be more of a student.
+- I currently carry the professional title of teacher but consider myself to be more of a perpetual student.
 - Fueled by coffee, curiosity, and collaboration, I welcome any opportunity to learn and help out.
-- After all, the web connects more than machines; it connects people.
+- After all, the web connects more than machines; it connects people!
 
 
 <!---
