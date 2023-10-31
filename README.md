@@ -1,6 +1,6 @@
-- 👋 Hi, my name is Hiro. 
+- 👋 Hi, there; my name is Hiro!
 - I am a full stack developer fueled by coffee, curiosity, and collaboration.
-- After all, the web connects more than machines; it connects people!
+
 
 
 <!---
