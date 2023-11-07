@@ -1,7 +1,7 @@
-- 👋 Hi, there; my name is Hiro!
-- I am a full stack developer fueled by coffee, curiosity, and collaboration.
-
-
+## About Me
+- 🌱 I'm currently learning DevOps.
+- 👯 I'm looking to collaborate on open-source projects.
+- 📫 How to reach me: hirokikato1@gmail.com.
 
 <!---
 hkato4188/hkato4188 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
