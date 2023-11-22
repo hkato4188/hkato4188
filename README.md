@@ -1,5 +1,5 @@
 ## About Me
-- 🌱 I'm currently learning DevOps.
+- 🌱 I'm a software developer and former educator.
 - 👯 I'm looking to collaborate on open-source projects.
 - 📫 How to reach me: hirokikato1@gmail.com.
 
